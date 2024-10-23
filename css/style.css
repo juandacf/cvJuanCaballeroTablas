@@ -19,7 +19,7 @@ body{
     background-color: #e7eef1;
     border-radius: 15px;
     padding:15px;
-    margin:15px;
+    margin:30px;
 }
 
 .itemsSmall {
@@ -30,7 +30,7 @@ body{
     background-color: #e7eef1;
     border-radius: 15px;
     padding:15px;
-    margin:15px;
+    margin:30px;
 }
 #mainTable {
     width:100vw;

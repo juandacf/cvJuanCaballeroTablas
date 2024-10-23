@@ -9,9 +9,24 @@
     height:40vh;
     width: 33vw;
 }
+#roundPicture{
+    height:400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 #generalInfo {
     height:60vh;
     width: 33vw;
+}
+#generalInfoTitle{
+    width: 33vw;
+    height:5vh;
+}
+#generalInfoContent{
+    width: 33vw;
+    height:55vh;
 }
 #part2 {
     width:33vw;
@@ -20,9 +35,25 @@
     width:33vw;
     height:50vh;
 }
+#estudiosTitle {
+    width:33vw;
+    height:5vh;
+}
+#estudiosContent{
+    height:45vh;
+    width:33vw;
+}
 #xplab {
     width:33vw;
     height:50vh;
+}
+#xplabTitle {
+    width:33vw;
+    height:5vh;
+}
+#xplabContent{
+    height:45vh;
+    width:33vw;
 }
 #part3 {
     width:34vw;
@@ -31,13 +62,38 @@
     width:34vw;
     height:29vh;
 }
+#proyectosTitle{
+    width:34vw;
+    height:3vh;
+}
+#proyectosContent{
+    width:34vw;
+    height:26vh;
+}
 #cursos{
     width:34vw;
     height:28vh;
 }
+#cursosTitle{
+    width:34vw;
+    height:3vh;
+}
+#cursosContent{
+    width:34vw;
+    height:25vh;
+}
+
 #skills{
     width:34vw;
     height:28vh;
+}
+#skillsTitle{
+    width:34vw;
+    height:3vh;
+}
+#skillsContent{
+    width:34vw;
+    height:25vh;
 }
 #contactMe{
     width:34vw;

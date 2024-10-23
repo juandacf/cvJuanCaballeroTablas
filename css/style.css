@@ -1,0 +1,45 @@
+#mainTable {
+    width:100vw;
+    height:100vh;
+}
+#part1 {
+    width:33vw;
+}
+#picture {
+    height:40vh;
+    width: 33vw;
+}
+#generalInfo {
+    height:60vh;
+    width: 33vw;
+}
+#part2 {
+    width:33vw;
+}
+#estudios {
+    width:33vw;
+    height:50vh;
+}
+#xplab {
+    width:33vw;
+    height:50vh;
+}
+#part3 {
+    width:34vw;
+}
+#proyectos{
+    width:34vw;
+    height:29vh;
+}
+#cursos{
+    width:34vw;
+    height:28vh;
+}
+#skills{
+    width:34vw;
+    height:28vh;
+}
+#contactMe{
+    width:34vw;
+    height:15vh;
+}
